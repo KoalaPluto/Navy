@@ -1,3 +1,6 @@
+#Asistensi P4
+## Kode
+```
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -172,3 +175,4 @@ int main() {
     cout << "Exiting Pet Cafe simulation. Goodbye!" << endl;
     return 0;
 }
+```
